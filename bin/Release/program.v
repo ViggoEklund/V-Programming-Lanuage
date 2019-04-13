@@ -10,6 +10,7 @@ if_is 1
 if_event if_01
 if_start
 test_class_01
+select_int test_01
 add 14
 print "Added, 14 to test_01!"
 print "test_01"
