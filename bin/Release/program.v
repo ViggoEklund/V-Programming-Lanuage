@@ -1,4 +1,4 @@
-﻿int *test_01*
+int *test_01*
 print "Hello World!"
 select_int test_01
 add 1
@@ -14,4 +14,5 @@ select_int test_01
 add 14
 print "Added, 14 to test_01!"
 print "test_01"
+print "hi"
 read

@@ -58,6 +58,9 @@ namespace V_program
                     {
                         Console.WriteLine(er.ToString());
                     }
+                } else
+                {
+                    Process.Start("Program.exe");
                 }
                 compile = false;
 
