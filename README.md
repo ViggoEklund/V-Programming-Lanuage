@@ -3,6 +3,6 @@ Just, a simple programming lanuage!
 
 Example, of the code:
 
-print "Hello World!"
+`print "Hello World!"`
 
-read
+`read`
