@@ -14,5 +14,5 @@ select_int test_01
 add 14
 print "Added, 14 to test_01!"
 print "test_01"
-print "hi"
+print "Hello, from the code editor!"
 read
