@@ -1,0 +1,12 @@
+C:\Users\viggo\source\repos\V\V\bin\Release\Code Editor!.exe.config
+C:\Users\viggo\source\repos\V\V\bin\Release\Code Editor!.exe
+C:\Users\viggo\source\repos\V\V\bin\Release\Code Editor!.pdb
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code_Editor_.Form1.resources
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code_Editor_.Properties.Resources.resources
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code Editor!.csproj.GenerateResource.cache
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code Editor!.csproj.CoreCompileInputs.cache
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code Editor!.exe
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code Editor!.pdb
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code_Editor_.settings.resources
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code_Editor_.if.resources
+C:\Users\viggo\source\repos\V\Code Editor!\obj\Release\Code_Editor_.reset.resources

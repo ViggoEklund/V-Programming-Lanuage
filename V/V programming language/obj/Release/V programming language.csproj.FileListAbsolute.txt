@@ -1,0 +1,42 @@
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\V programming language.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\V programming language.pdb
+C:\Users\viggo\source\repos\V\V programming language\obj\Release\V programming language.csprojResolveAssemblyReference.cache
+C:\Users\viggo\source\repos\V\V programming language\obj\Release\V programming language.csproj.CoreCompileInputs.cache
+C:\Users\viggo\source\repos\V\V programming language\obj\Release\V programming language.dll
+C:\Users\viggo\source\repos\V\V programming language\obj\Release\V programming language.pdb
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\V programming language.dll.config
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.AppContext.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Collections.Immutable.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Console.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Diagnostics.FileVersionInfo.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Diagnostics.StackTrace.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.IO.Compression.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.IO.FileSystem.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.IO.FileSystem.Primitives.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Reflection.Metadata.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Security.Cryptography.Algorithms.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Security.Cryptography.Encoding.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Security.Cryptography.Primitives.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Security.Cryptography.X509Certificates.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Text.Encoding.CodePages.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Threading.Thread.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.ValueTuple.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Xml.ReaderWriter.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Xml.XmlDocument.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Xml.XPath.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Xml.XPath.XDocument.dll
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.pdb
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.xml
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.CSharp.Scripting.pdb
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.Scripting.pdb
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Collections.Immutable.xml
+C:\Users\viggo\source\repos\V\V programming language\bin\Release\System.Reflection.Metadata.xml
+C:\Users\viggo\source\repos\V\V programming language\obj\Release\V programming language.csproj.CopyComplete

@@ -1,0 +1,1 @@
+﻿varv = a.Substring(6);
