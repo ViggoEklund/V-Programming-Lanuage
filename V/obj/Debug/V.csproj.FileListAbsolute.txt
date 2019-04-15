@@ -1,0 +1,11 @@
+C:\Users\viggo\source\repos\V\V\bin\Debug\program.v
+C:\Users\viggo\source\repos\V\V\bin\Debug\V.exe.config
+C:\Users\viggo\source\repos\V\V\bin\Debug\V.exe
+C:\Users\viggo\source\repos\V\V\bin\Debug\V.pdb
+C:\Users\viggo\source\repos\V\V\bin\Debug\V programming language.dll
+C:\Users\viggo\source\repos\V\V\bin\Debug\V programming language.pdb
+C:\Users\viggo\source\repos\V\V\obj\Debug\V.csprojResolveAssemblyReference.cache
+C:\Users\viggo\source\repos\V\V\obj\Debug\V.csproj.CoreCompileInputs.cache
+C:\Users\viggo\source\repos\V\V\obj\Debug\V.csproj.CopyComplete
+C:\Users\viggo\source\repos\V\V\obj\Debug\V.exe
+C:\Users\viggo\source\repos\V\V\obj\Debug\V.pdb
